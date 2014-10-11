@@ -57,7 +57,7 @@
 }
 
 
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -71,8 +71,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
@@ -83,7 +83,7 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
@@ -171,7 +171,7 @@ header h1 {
   text-transform: uppercase;
   color: #ece4d8;
   text-align: center;
-  line-height:1;  
+  line-height:1;
   padding: 14px 20px 0;
 }
 
@@ -299,7 +299,7 @@ footer span.right-tail {
   right: 0;
 }
 
-footer span.octocat {
+span.octocat {
   background: transparent url(../images/octocat-2x.png) 0 0 no-repeat;
   display: block;
   width: 60px;
@@ -400,11 +400,11 @@ pre {
 }
 
 table {
-  background: #fff6e9;
+  /*background: #fff6e9;*/
   display: table;
   width: 100%;
   border-collapse: separate;
-  border-bottom: 4px solid #bdb6ad;
+  /*border-bottom: 4px solid #bdb6ad;*/
   margin: 10px 0;
 }
 

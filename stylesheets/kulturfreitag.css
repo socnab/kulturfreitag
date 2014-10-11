@@ -1,0 +1,59 @@
+.ribbon-inner h1 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+img {
+  box-shadow: none;
+  border: 0px;
+}
+table {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+
+.timeline-entry {
+    border-bottom: 1px solid #d3ccc1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.timeline-entry:last-child {
+    border-bottom: 0px;
+}
+.timeline-entry .img {
+    height: 300px;
+}
+.timeline-entry .col {
+    float: left;
+    width: 33.3%;
+}
+.timeline-entry .col p {
+    height: 100px;
+}
+.timeline-entry .col p span {
+    display: inline-block;
+}
+.timeline-entry .col.col1 p span {
+    padding-left: 4px;
+    border-left: 2px solid #d3ccc1;
+}
+.timeline-entry .col.col3 p span {
+    padding-right: 4px;
+    border-right: 2px solid #d3ccc1;
+}
+
+.timeline-entry .col2 {
+    text-align: center;
+}
+.timeline-entry .col3 {
+    text-align: right;
+    margin-top: 30px;
+}
+
