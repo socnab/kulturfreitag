@@ -19,6 +19,8 @@
         };
 
         self.drawConnectionLines = function() {
+            if ( $(window).width() <= 640 ) { return; }
+
             var left = $('.timeline-entry [data-connector-line="left"]');
             var right = $('.timeline-entry [data-connector-line="right"]');
             var root = 'body';
