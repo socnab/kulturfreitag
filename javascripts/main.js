@@ -15,6 +15,15 @@
                 $('#'+entryId).find('.name').text( entry.name );
                 $('#'+entryId).find('.origin').text( entry.origin );
                 $('#'+entryId).find('.img').attr('src', 'data/img/'+entry.img );
+
+                var rating = Math.ceil( entry.rating );
+                for (var i = 1; i <= rating; i++) {
+                    $('.rating-'+i).attr('src', 'images/beer_color.png');
+                };
+                if ( rating != entry.rating ) {
+                    $('.rating-'+rating).attr('src', 'images/beer_csw.png');
+                }
+
             });
         };
 
