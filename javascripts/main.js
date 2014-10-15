@@ -11,11 +11,19 @@
                 var entryId = 'timeline-entry-'+index;
 
                 $('#timeline').append( $('#timeline-entry').clone(true).attr('id', entryId) );
-                $('#'+entryId).find('.date').text( entry.date );
-                $('#'+entryId).find('.name').text( entry.name );
-                $('#'+entryId).find('.origin').text( entry.origin );
+
+                if ( entry.date.length ) { $('#'+entryId).find('.date').text( entry.date ); }
+                else                     { $('#'+entryId).find('.date').css('display', 'none'); }
+
+                if ( entry.name.length ) { $('#'+entryId).find('.name').text( entry.name ); }
+                else                     { $('#'+entryId).find('.name').css('display', 'none'); }
+
+                if ( entry.origin.length ) { $('#'+entryId).find('.origin').text( entry.date ); }
+                else                       { $('#'+entryId).find('.origin').css('display', 'none'); }
+
                 $('#'+entryId).find('.img').attr('src', 'data/img/'+entry.img );
 
+                if ( !entry.rating.length ) { entry.rating = 0; }
                 var rating = Math.ceil( entry.rating );
                 for (var i = 1; i <= rating; i++) {
                     $('.rating-'+i).attr('src', 'images/beer_color.png');
