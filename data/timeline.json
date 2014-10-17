@@ -2,6 +2,13 @@
 {
     "timeline" : [
         {
+            "date": "",
+            "img": "brewdog-punk-ipa.png",
+            "name": "BrewDog Punk IPA",
+            "origin": "GB, Schottland",
+            "rating": ""
+        },
+        {
             "date": "10.10.2014",
             "img": "zwickl-kellerbier.png",
             "name": "Aktien Zwick'l Kellerbier",
