@@ -18,7 +18,7 @@
                 if ( entry.name.length ) { $('#'+entryId).find('.name').text( entry.name ); }
                 else                     { $('#'+entryId).find('.name').css('display', 'none'); }
 
-                if ( entry.origin.length ) { $('#'+entryId).find('.origin').text( entry.date ); }
+                if ( entry.origin.length ) { $('#'+entryId).find('.origin').text( entry.origin ); }
                 else                       { $('#'+entryId).find('.origin').css('display', 'none'); }
 
                 $('#'+entryId).find('.img').attr('src', 'data/img/'+entry.img );
@@ -26,10 +26,10 @@
                 if ( !entry.rating.length ) { entry.rating = 0; }
                 var rating = Math.ceil( entry.rating );
                 for (var i = 1; i <= rating; i++) {
-                    $('.rating-'+i).attr('src', 'images/beer_color.png');
+                    $('#'+entryId+' .rating-'+i).attr('src', 'images/beer_color.png');
                 };
                 if ( rating != entry.rating ) {
-                    $('.rating-'+rating).attr('src', 'images/beer_csw.png');
+                    $('#'+entryId+' .rating-'+rating).attr('src', 'images/beer_csw.png');
                 }
 
             });
