@@ -2,6 +2,13 @@
 {
     "timeline" : [
         {
+            "date": "24.10.2014",
+            "img": "fullers-london-porter.png",
+            "name": "Fullers London Porter",
+            "origin": "GB, England",
+            "rating": "0.0"
+        },
+        {
             "date": "17.10.2014",
             "img": "brewdog-punk-ipa.png",
             "name": "BrewDog Punk IPA",
