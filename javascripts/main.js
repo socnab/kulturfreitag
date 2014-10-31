@@ -23,14 +23,17 @@
 
                 $('#'+entryId).find('.img').attr('src', 'data/img/'+entry.img );
 
-                if ( !entry.rating.length ) { entry.rating = 0; }
-                var rating = Math.ceil( entry.rating );
-                for (var i = 1; i <= rating; i++) {
+                if ( !entry.ratings.length ) { entry.rating = 0; }
+
+                var rating = self.calcRating( entry.ratings );
+                var i=1;
+                for ( ; i <= rating[0]; i++) {
                     $('#'+entryId+' .rating-'+i).attr('src', 'images/beer_color.png');
                 };
-                if ( rating != entry.rating ) {
-                    $('#'+entryId+' .rating-'+rating).attr('src', 'images/beer_csw.png');
+                if ( rating[1] === "5" || rating[1] === 5 ) {
+                    $('#'+entryId+' .rating-'+i).attr('src', 'images/beer_csw.png');
                 }
+
 
             });
         };
@@ -73,6 +76,25 @@
             self.timelineToHtml( self.data.timeline );
             self.drawConnectionLines();
         };
+
+        self.calcRating = function( ratings ) {
+            var rating = 0;
+            $.each(ratings, function(index, val) { rating += parseFloat( val.rating ); });
+            rating = (( (rating/ratings.length)+'' ).substring(0,3)).split('.');
+
+            if ( rating[1] ) {
+                if ( rating[1] > 3 && rating[1] <= 7 ) {
+                    rating[1] = '5';
+                } else if ( rating[1] > 7 ) {
+                    rating[0] = parseInt(rating[0])+1;
+                    rating[1] = '0';
+                } else {
+                    rating[1] = '0';
+                }
+            }
+
+            return rating;
+        }
 
         self.init = function() {
             self.loadJson( self.loadJsonCallback );
