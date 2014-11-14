@@ -2,6 +2,13 @@
 {
     "timeline" : [
         {
+            "date": "14.11.2014",
+            "img": "magners-pear-cider.png",
+            "name": "Magners Original Irish Pear Cider",
+            "origin": "GB, Irland",
+            "ratings": [{ "rating": "0.0" }]
+        },
+        {
             "date": "07.11.2014",
             "img": "hovels-original.png",
             "name": "Hövels Original",
