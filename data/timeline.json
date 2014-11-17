@@ -6,7 +6,13 @@
             "img": "magners-pear-cider.png",
             "name": "Magners Original Irish Pear Cider",
             "origin": "GB, Irland",
-            "ratings": [{ "rating": "0.0" }]
+            "ratings": [
+                { "name": "jan",    "rating": "3.5" },
+                { "name": "paul",   "rating": "2.0" },
+                { "name": "david",  "rating": "1.0" },
+                { "name": "robert", "rating": "2.0" },
+                { "name": "marco2", "rating": "3.5" }
+            ]
         },
         {
             "date": "07.11.2014",
