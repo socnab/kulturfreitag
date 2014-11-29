@@ -2,6 +2,15 @@
 {
     "timeline" : [
         {
+            "date": "28.11.2014",
+            "img": "fullers-organic-honey-dew.png",
+            "name": "Fullers Organic HoneyDew",
+            "origin": "GB, England",
+            "ratings": [
+                { "rating": "0.0" }
+            ]
+        },
+        {
             "date": "21.11.2014",
             "img": "brewdog-dead-pony-club.png",
             "name": "BrewDog Dead Pony Club",
@@ -21,6 +30,7 @@
             "origin": "GB, Irland",
             "ratings": [
                 { "name": "jan",    "rating": "3.5" },
+                { "name": "manu",    "rating": "3.0" },
                 { "name": "paul",   "rating": "2.0" },
                 { "name": "david",  "rating": "1.0" },
                 { "name": "robert", "rating": "2.0" },
