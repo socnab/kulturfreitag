@@ -2,6 +2,20 @@
 {
     "timeline" : [
         {
+            "date": "12.12.2014",
+            "img": "fullers-india-pale-ale.png",
+            "name": "Fullers India Pale Ale",
+            "origin": "GB, England",
+            "ratings": [
+                { "name": "jan",    "rating": "3.5" },
+                { "name": "paul",   "rating": "3.0" },
+                { "name": "manu",   "rating": "3.0" },
+                { "name": "chris",  "rating": "3.5" },
+                { "name": "alex2",  "rating": "3.0" },
+                { "name": "marco2", "rating": "4.0" }
+            ]
+        },
+        {
             "date": "05.12.2014",
             "img": "brewdog-5-a-m-saint.png",
             "name": "BrewDog 5 A.M. Saint",
