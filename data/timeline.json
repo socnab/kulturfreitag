@@ -2,6 +2,20 @@
 {
     "timeline" : [
         {
+            "date": "20.12.2014",
+            "img": "fullers-old-winter-ale.png",
+            "name": "Fullers Old Winter Ale",
+            "origin": "GB, England",
+            "ratings": [
+                { "name": "jan",    "rating": "3.5" },
+                { "name": "paul",   "rating": "4.0" },
+                { "name": "manu",   "rating": "3.5" },
+                { "name": "chris",  "rating": "4.5" },
+                { "name": "alex2",  "rating": "4.0" },
+                { "name": "robert", "rating": "4.0" }
+            ]
+        },
+        {
             "date": "12.12.2014",
             "img": "fullers-india-pale-ale.png",
             "name": "Fullers India Pale Ale",
