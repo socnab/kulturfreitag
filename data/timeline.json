@@ -2,6 +2,22 @@
 {
     "timeline" : [
         {
+            "date": "09.01.2015",
+            "img": "iron_maiden_trooper_ale.png",
+            "name": "Iron Maiden Trooper Ale",
+            "origin": "GB, England",
+            "ratings": [
+                { "name": "jan",    "rating": "3.5" },
+                { "name": "paul",   "rating": "3.5" },
+                { "name": "manu",   "rating": "3.0" },
+                { "name": "chris",  "rating": "3.0" },
+                { "name": "alex2",  "rating": "3.0" },
+                { "name": "david",  "rating": "3.0" },
+                { "name": "robert", "rating": "2.5" },
+                { "name": "marco2", "rating": "3.5" }
+            ]
+        },
+        {
             "date": "20.12.2014",
             "img": "fullers-old-winter-ale.png",
             "name": "Fullers Old Winter Ale",
