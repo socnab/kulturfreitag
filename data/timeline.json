@@ -2,6 +2,19 @@
 {
     "timeline" : [
         {
+            "date": "23.01.2015",
+            "img": "magners-original-irish-cider.png",
+            "name": "Magner Original Irish Cider",
+            "origin": "GB, Irland",
+            "ratings": [
+                { "name": "paul",   "rating": "3.0" },
+                { "name": "manu",   "rating": "2.5" },
+                { "name": "alex2",  "rating": "2.0" },
+                { "name": "marco2", "rating": "2.5" },
+                { "name": "robert", "rating": "2.0" }
+            ]
+        },
+        {
             "date": "16.01.2015",
             "img": "fullers-esb-champions-ale.png",
             "name": "Fullers ESB Chanpions Ale",
@@ -117,6 +130,7 @@
                 { "name": "chris",  "rating": "1.0" },
                 { "name": "paul",   "rating": "2.0" },
                 { "name": "david",  "rating": "1.0" },
+                { "name": "alex2",  "rating": "3.0" },
                 { "name": "robert", "rating": "2.0" },
                 { "name": "marco2", "rating": "3.5" }
             ]
