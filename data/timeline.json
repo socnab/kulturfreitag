@@ -2,6 +2,19 @@
 {
     "timeline" : [
         {
+            "date": "06.02.2015",
+            "img": "greene-king-double-hop-monster-IPA.png",
+            "name": "Greene King Double Hop Monster IPA",
+            "origin": "GB, England",
+            "ratings": [
+                { "name": "jan",    "rating": "3.0" },
+                { "name": "paul",   "rating": "2.0" },
+                { "name": "manu",   "rating": "1.0" },
+                { "name": "david",  "rating": "1.0" },
+                { "name": "chris",  "rating": "2.0" }
+            ]
+        },
+        {
             "date": "30.01.2015",
             "img": "samuel-smith-imperial-stout.png",
             "name": "Samuel Smith Imperial Stout",
