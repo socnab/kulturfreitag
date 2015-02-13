@@ -2,6 +2,17 @@
 {
     "timeline" : [
         {
+            "date": "13.02.2015",
+            "img": "grimbergen-blond.png",
+            "name": "Grimbergen Blond",
+            "origin": "B, Grimbergen",
+            "ratings": [
+                { "name": "paul",   "rating": "5.0" },
+                { "name": "manu",   "rating": "4.0" },
+                { "name": "robert", "rating": "5.0" }
+            ]
+        },
+        {
             "date": "06.02.2015",
             "img": "greene-king-double-hop-monster-IPA.png",
             "name": "Greene King Double Hop Monster IPA",
