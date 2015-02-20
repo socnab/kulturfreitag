@@ -2,6 +2,18 @@
 {
     "timeline" : [
         {
+            "date": "20.02.2015",
+            "img": "hoegaarden-wit-blanche.png",
+            "name": "Hoegaarden Wit Blanche",
+            "origin": "B, Hoegaarden",
+            "ratings": [
+                { "name": "paul",   "rating": "3.5" },
+                { "name": "marco",  "rating": "5.0" },
+                { "name": "chris",  "rating": "3.5" },
+                { "name": "robert", "rating": "3.0" }
+            ]
+        },
+        {
             "date": "13.02.2015",
             "img": "grimbergen-blond.png",
             "name": "Grimbergen Blond",
