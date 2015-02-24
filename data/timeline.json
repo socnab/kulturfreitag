@@ -7,6 +7,7 @@
             "name": "Hoegaarden Wit Blanche",
             "origin": "B, Hoegaarden",
             "ratings": [
+                { "name": "jan",    "rating": "5.0" },
                 { "name": "paul",   "rating": "3.5" },
                 { "name": "manu",   "rating": "5.0" },
                 { "name": "marco",  "rating": "5.0" },
@@ -248,6 +249,17 @@
             "name": "Aktien Zwick'l Kellerbier",
             "origin": "Deutschland, Bayern, Oberfranken",
             "ratings": [{ "rating": "3.0" }]
+        }
+    ],
+    "etc": [
+        {
+            "date": "23.02.2015",
+            "img": "",
+            "name": "Black Scout",
+            "origin": "GB, England",
+            "ratings": [
+                { "name": "jan",    "rating": "5.0" }
+            ]
         }
     ]
 }
