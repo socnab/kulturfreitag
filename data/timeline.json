@@ -96,6 +96,7 @@
                 { "name": "jan",    "rating": "3.5" },
                 { "name": "paul",   "rating": "3.5" },
                 { "name": "manu",   "rating": "3.0" },
+                { "name": "david",  "rating": "1.0" },
                 { "name": "chris",  "rating": "3.0" },
                 { "name": "alex2",  "rating": "3.0" },
                 { "name": "david",  "rating": "3.0" },
@@ -112,6 +113,7 @@
                 { "name": "jan",    "rating": "3.5" },
                 { "name": "paul",   "rating": "4.0" },
                 { "name": "manu",   "rating": "3.5" },
+                { "name": "david",  "rating": "2.5" },
                 { "name": "chris",  "rating": "4.5" },
                 { "name": "alex2",  "rating": "4.0" },
                 { "name": "robert", "rating": "4.0" }
@@ -259,6 +261,7 @@
             "origin": "GB, England",
             "ratings": [
                 { "name": "jan",    "rating": "5.0" }
+                { "name": "manu",   "rating": "2.5" }
             ]
         }
     ]
