@@ -1,6 +1,21 @@
 
 {
     "timeline" : [
+            {
+            "date": "27.02.2015",
+            "img": "westmalle-trappist-dubbel.png",
+            "name": "Westmalle Trappist Dubbel",
+            "origin": "B, Hoegaarden",
+            "ratings": [
+                { "name": "jan",    "rating": "4.0" },
+                { "name": "paul",   "rating": "5.0" },
+                { "name": "alex",   "rating": "4.0" },
+                { "name": "manu",   "rating": "4.0" },
+                { "name": "david",  "rating": "4.0" },
+                { "name": "chris",  "rating": "4.5" },
+                { "name": "robert", "rating": "4.0" }
+            ]
+        },
         {
             "date": "20.02.2015",
             "img": "hoegaarden-wit-blanche.png",
