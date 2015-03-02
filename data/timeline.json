@@ -27,7 +27,8 @@
                 { "name": "manu",   "rating": "5.0" },
                 { "name": "marco",  "rating": "5.0" },
                 { "name": "chris",  "rating": "3.5" },
-                { "name": "robert", "rating": "3.0" }
+                { "name": "robert", "rating": "3.0" },
+                { "name": "alex2",  "rating": "5.0" }
             ]
         },
         {
@@ -40,7 +41,8 @@
                 { "name": "paul",   "rating": "5.0" },
                 { "name": "manu",   "rating": "4.0" },
                 { "name": "chris",  "rating": "3.5" },
-                { "name": "robert", "rating": "5.0" }
+                { "name": "robert", "rating": "5.0" },
+                { "name": "alex2",  "rating": "4.0" }
             ]
         },
         {
