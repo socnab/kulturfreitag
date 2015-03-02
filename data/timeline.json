@@ -275,7 +275,7 @@
             "name": "Black Scout",
             "origin": "GB, England",
             "ratings": [
-                { "name": "jan",    "rating": "5.0" }
+                { "name": "jan",    "rating": "5.0" },
                 { "name": "manu",   "rating": "2.5" }
             ]
         }
