@@ -1,7 +1,21 @@
 
 {
     "timeline" : [
-            {
+        {
+            "date": "06.03.2015",
+            "img": "gourmet-pilsner.png",
+            "name": "Gourmet Pilsner",
+            "origin": "Deutschland, Brandenburg",
+            "ratings": [
+                { "name": "jan",    "rating": "4.0" },
+                { "name": "paul",   "rating": "5.0" },
+                { "name": "alex",   "rating": "4.0" },
+                { "name": "manu",   "rating": "4.0" },
+                { "name": "chris",  "rating": "4.0" },
+                { "name": "robert", "rating": "5.0" }
+            ]
+        },
+        {
             "date": "27.02.2015",
             "img": "westmalle-trappist-dubbel.png",
             "name": "Westmalle Trappist Dubbel",
