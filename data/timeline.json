@@ -2,6 +2,18 @@
 {
     "timeline" : [
         {
+            "date": "13.03.2015",
+            "img": "st-louis-kriek-lambic.png",
+            "name": "St. Louis Kriek Lambic",
+            "origin": "B, Ingelmünster",
+            "ratings": [
+                { "name": "alex",   "rating": "4.5" },
+                { "name": "manu",   "rating": "3.5" },
+                { "name": "david",  "rating": "3.5" },
+                { "name": "robert", "rating": "4.0" }
+            ]
+        },
+        {
             "date": "06.03.2015",
             "img": "gourmet-pilsner.png",
             "name": "Gourmet Pilsner",
