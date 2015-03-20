@@ -2,6 +2,22 @@
 {
     "timeline" : [
         {
+            "date": "20.03.2015",
+            "img": "grimbergen-dubbel.png",
+            "name": "Grimbergen Dubbel",
+            "origin": "B, Grimbergen",
+            "ratings": [
+                { "name": "jan",    "rating": "4.0" },
+                { "name": "paul",   "rating": "4.0" },
+                { "name": "manu",   "rating": "4.0" },
+                { "name": "chris",  "rating": "4.0" },
+                { "name": "david",  "rating": "4.5" },
+                { "name": "alex2",  "rating": "4.0" },
+                { "name": "marco",  "rating": "4.0" },
+                { "name": "robert", "rating": "4.0" }
+            ]
+        },
+        {
             "date": "13.03.2015",
             "img": "st-louis-kriek-lambic.png",
             "name": "St. Louis Kriek Lambic",
