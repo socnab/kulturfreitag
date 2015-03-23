@@ -27,6 +27,7 @@
                 { "name": "manu",   "rating": "3.5" },
                 { "name": "paul",   "rating": "4.0" },
                 { "name": "david",  "rating": "3.5" },
+                { "name": "chris",  "rating": "3.5" },
                 { "name": "robert", "rating": "4.0" }
             ]
         },
