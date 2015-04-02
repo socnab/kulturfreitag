@@ -2,6 +2,18 @@
 {
     "timeline" : [
         {
+            "date": "02.04.2015",
+            "img": "kasteel-blond.png",
+            "name": "Kasteel Blond",
+            "origin": "B, Ingelmunster",
+            "ratings": [
+                { "name": "paul",   "rating": "4.5" },
+                { "name": "manu",   "rating": "5.0" },
+                { "name": "david",  "rating": "4.5" },
+                { "name": "alex2",  "rating": "5.0" }
+            ]
+        },
+        {
             "date": "27.03.2015",
             "img": "chimay-rouge-premiere.png",
             "name": "Chimay Rouge Premiere",
