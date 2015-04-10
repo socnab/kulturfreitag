@@ -2,6 +2,18 @@
 {
     "timeline" : [
         {
+            "date": "10.04.2015",
+            "img": "la-gauloise-blonde.png",
+            "name": "La Gauloise Blonde",
+            "origin": "B, Wallonne",
+            "ratings": [
+                { "name": "paul",   "rating": "4.0" },
+                { "name": "manu",   "rating": "4.5" },
+                { "name": "alex2",  "rating": "4.5" },
+                { "name": "robert", "rating": "4.5" }
+            ]
+        },
+        {
             "date": "02.04.2015",
             "img": "kasteel-blond.png",
             "name": "Kasteel Blond",
