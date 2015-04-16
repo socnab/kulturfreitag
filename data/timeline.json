@@ -7,9 +7,11 @@
             "name": "La Gauloise Blonde",
             "origin": "B, Wallonne",
             "ratings": [
+                { "name": "jan",    "rating": "5.0" },
                 { "name": "paul",   "rating": "4.0" },
                 { "name": "manu",   "rating": "4.5" },
                 { "name": "alex2",  "rating": "4.5" },
+                { "name": "david",  "rating": "4.0" },
                 { "name": "robert", "rating": "4.5" }
             ]
         },
@@ -19,6 +21,7 @@
             "name": "Kasteel Blond",
             "origin": "B, Ingelmunster",
             "ratings": [
+                { "name": "jan",    "rating": "5.0" },
                 { "name": "paul",   "rating": "4.5" },
                 { "name": "manu",   "rating": "5.0" },
                 { "name": "david",  "rating": "4.5" },
