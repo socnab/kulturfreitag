@@ -2,6 +2,22 @@
 {
     "timeline" : [
         {
+            "date": "17.04.2015",
+            "img": "du-bocq-saison-1858.png",
+            "name": "Du BOCQ Saison 1858",
+            "origin": "B, Yvoir",
+            "ratings": [
+                { "name": "jan",    "rating": "3.5" },
+                { "name": "paul",   "rating": "3.5" },
+                { "name": "manu",   "rating": "2.0" },
+                { "name": "alex2",  "rating": "0.5" },
+                { "name": "chris",  "rating": "3.0" },
+                { "name": "david",  "rating": "3.0" },
+                { "name": "marco",  "rating": "4.0" },
+                { "name": "robert", "rating": "3.5" }
+            ]
+        },
+        {
             "date": "10.04.2015",
             "img": "la-gauloise-blonde.png",
             "name": "La Gauloise Blonde",
