@@ -2,6 +2,22 @@
 {
     "timeline" : [
         {
+            "date": "08.05.2015",
+            "img": "leffe-blond.png",
+            "name": "Leffe Blond",
+            "origin": "B, Leffe",
+            "ratings": [
+                { "name": "jan",    "rating": "5.0" },
+                { "name": "alex",   "rating": "5.5" },
+                { "name": "paul",   "rating": "4.0" },
+                { "name": "manu",   "rating": "4.5" },
+                { "name": "chris",  "rating": "3.5" },
+                { "name": "david",  "rating": "5.0" },
+                { "name": "marco",  "rating": "4.0" },
+                { "name": "robert", "rating": "3.0" }
+            ]
+        },
+        {
             "date": "17.04.2015",
             "img": "du-bocq-saison-1858.png",
             "name": "Du BOCQ Saison 1858",
@@ -197,7 +213,7 @@
         {
             "date": "16.01.2015",
             "img": "fullers-esb-champions-ale.png",
-            "name": "Fullers ESB Chanpions Ale",
+            "name": "Fullers ESB Champions Ale",
             "origin": "GB, England",
             "ratings": [
                 { "name": "jan",    "rating": "3.5" },
