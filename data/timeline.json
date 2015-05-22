@@ -2,13 +2,29 @@
 {
     "timeline" : [
         {
+            "date": "22.05.2015",
+            "img": "st-bernardus-pater-6.png",
+            "name": "St. Bernardus Pater 6",
+            "origin": "B, Westvleteren",
+            "ratings": [
+                { "name": "alex",   "rating": "3.5" },
+                { "name": "paul",   "rating": "4.0" },
+                { "name": "eric",   "rating": "4.0" },
+                { "name": "manu",   "rating": "3.5" },
+                { "name": "chris",  "rating": "4.0" },
+                { "name": "david",  "rating": "4.0" },
+                { "name": "marco",  "rating": "3.0" },
+                { "name": "robert", "rating": "4.0" }
+            ]
+        },
+        {
             "date": "08.05.2015",
             "img": "leffe-blond.png",
             "name": "Leffe Blond",
             "origin": "B, Leffe",
             "ratings": [
                 { "name": "jan",    "rating": "5.0" },
-                { "name": "alex",   "rating": "5.5" },
+                { "name": "alex",   "rating": "5.0" },
                 { "name": "paul",   "rating": "4.0" },
                 { "name": "manu",   "rating": "4.5" },
                 { "name": "chris",  "rating": "3.5" },
