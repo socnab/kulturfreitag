@@ -3,6 +3,20 @@
     "timeline" : [
         {
             "date": "22.05.2015",
+            "img": "lindemans-gueuze.png",
+            "name": "Lindemans Grueuze",
+            "origin": "B, Flandern",
+            "ratings": [
+                { "name": "alex",   "rating": "2.5" },
+                { "name": "paul",   "rating": "1.0" },
+                { "name": "manu",   "rating": "0.0" },
+                { "name": "david",  "rating": "0.0" },
+                { "name": "marco",  "rating": "1.0" },
+                { "name": "robert", "rating": "1.0" }
+            ]
+        },
+        {
+            "date": "22.05.2015",
             "img": "st-bernardus-pater-6.png",
             "name": "St. Bernardus Pater 6",
             "origin": "B, Westvleteren",
