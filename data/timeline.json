@@ -7,6 +7,7 @@
             "name": "Schönramer Pils",
             "origin": "D, Bayern, Schönram",
             "ratings": [
+                { "name": "jan",    "rating": "4.0" },
                 { "name": "alex",   "rating": "3.0" },
                 { "name": "paul",   "rating": "3.5" },
                 { "name": "manu",   "rating": "3.0" },
@@ -22,6 +23,7 @@
             "name": "Lindemans Grueuze",
             "origin": "B, Flandern",
             "ratings": [
+                { "name": "jan",    "rating": "1.0" },
                 { "name": "alex",   "rating": "2.5" },
                 { "name": "paul",   "rating": "1.0" },
                 { "name": "manu",   "rating": "0.0" },
@@ -37,6 +39,7 @@
             "name": "St. Bernardus Pater 6",
             "origin": "B, Westvleteren",
             "ratings": [
+                { "name": "jan",    "rating": "4.0" },
                 { "name": "alex",   "rating": "3.5" },
                 { "name": "paul",   "rating": "4.0" },
                 { "name": "eric",   "rating": "4.0" },
