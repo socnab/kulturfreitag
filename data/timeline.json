@@ -2,6 +2,35 @@
 {
     "timeline" : [
         {
+            "date": "19.06.2015",
+            "img": "crew-republic-roundhouse-kick-imperial-stout.png",
+            "name": "Crew Republic Roundhouse Kick",
+            "origin": "Bayern, München",
+            "ratings": [
+                { "name": "jan",    "rating": "4.0" },
+                { "name": "alex",   "rating": "1.0" },
+                { "name": "paul",   "rating": "3.5" },
+                { "name": "chris",  "rating": "4.0" },
+                { "name": "david",  "rating": "1.5" },
+                { "name": "marco",  "rating": "2.5" },
+                { "name": "robert", "rating": "2.0" }
+            ]
+        },
+        {
+            "date": "12.06.2015",
+            "img": "st-erhard.png",
+            "name": "St. Erhard",
+            "origin": "Bayern, Bamberg",
+            "ratings": [
+                { "name": "jan",    "rating": "4.0" },
+                { "name": "alex",   "rating": "5.0" },
+                { "name": "paul",   "rating": "4.0" },
+                { "name": "chris",  "rating": "3.5" },
+                { "name": "david",  "rating": "4.5" },
+                { "name": "robert", "rating": "5.0" }
+            ]
+        },
+        {
             "date": "05.06.2015",
             "img": "schoenramer-pils.png",
             "name": "Schönramer Pils",
