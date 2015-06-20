@@ -24,6 +24,7 @@
             "ratings": [
                 { "name": "jan",    "rating": "4.0" },
                 { "name": "alex",   "rating": "5.0" },
+                { "name": "manu",   "rating": "5.0" },
                 { "name": "paul",   "rating": "4.0" },
                 { "name": "chris",  "rating": "3.5" },
                 { "name": "david",  "rating": "4.5" },
