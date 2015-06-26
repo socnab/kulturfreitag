@@ -2,6 +2,15 @@
 {
     "timeline" : [
         {
+            "date": "26.06.2015",
+            "img": "guinness.png",
+            "name": "Guinness",
+            "origin": "Irland",
+            "ratings": [
+                { "name": "manu", "rating": "5.0" }
+            ]
+        },
+        {
             "date": "19.06.2015",
             "img": "crew-republic-roundhouse-kick-imperial-stout.png",
             "name": "Crew Republic Roundhouse Kick",
